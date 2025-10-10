@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "nome": "Interestelar",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 2014,
+        "genero": "Ficção-científica",
+        "duracao": "2h49min",
+        "descrição": "Interestelar é um filme de ficção científica dirigido por Christopher Nolan, lançado em 2014. A história segue Joseph Cooper, um ex-piloto da NASA, que é recrutado para uma missão espacial em busca de um novo lar para a humanidade após a degradação do planeta Terra. A equipe, composta por Cooper, sua esposa Murph, interpretada por Jessica Chastain, e outros cientistas, viaja através de um buraco de minhoca em busca de planetas habitáveis. O filme explora temas profundos como amor, sacrifício e a sobrevivência da humanidade, apresentando uma narrativa envolvente e cheia de efeitos especiais.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Ana Costa",
+                "comentario": "Simplesmente fascinante! A mistura de ficção científica e drama humano é de tirar o fôlego. A atuação do Matthew McConaughey foi brilhante."
+            },
+            "pessoa_2": {
+                "nome": "Carlos Silva",
+                "comentario": "É um dos melhores filmes que já vi. A abordagem sobre o amor e o espaço me fez refletir muito sobre o que realmente importa."
+            },
+            "pessoa_3": {
+                "nome": "Mariana Oliveira",
+                "comentario": "Adoro como o filme combina complexidade científica com uma história emocionalmente profunda. Perfeito!"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "nome": "Wall-e",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 2005,
+        "genero": "Animação",
+        "duracao": "1h38min",
+        "descrição": "Wall-e é um filme de animação de 2008, produzido pela Pixar Animation Studios, dirigido por Andrew Stanton. A história se passa no futuro, onde a Terra está coberta de lixo e a humanidade vive em uma nave chamada Axiom. O protagonista, WALL-E, um robô projetado para limpar a sujeira, se apaixona por um robô chamado EVA, que tem a missão de encontrar vida na Terra. Através de sua jornada, WALL-E descobre a beleza e a fragilidade da vida, enquanto a humanidade se atrasa em buscar um novo lar no espaço. O filme é conhecido por sua mensagem ambiental poderosa e por apresentar uma narrativa que combina amor e solidariedade.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Felipe Almeida",
+                "comentario": "A Pixar mais uma vez me impressiona com um filme cheio de emoção e com uma mensagem ambiental importante."
+            },
+            "pessoa_2": {
+                "nome": "Juliana Pereira",
+                "comentario": "Apesar de ser uma animação, esse filme tem uma profundidade filosófica incrível. A relação entre Wall-E e Eva é tocante!"
+            },
+            "pessoa_3": {
+                "nome": "Lucas Ribeiro",
+                "comentario": "Um filme lindo, com uma mensagem poderosa sobre o meio ambiente. Adoro a simplicidade e profundidade da história."
+            }
+        }
+    },
+    {
+        "id": 3,
+        "nome": "Formula 1: O Filme",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 2025,
+        "genero": "Drama",
+        "duracao": "2h36min",
+        "descrição": "F1: O Filme é um drama esportivo que segue a história de Sonny Hayes, um piloto veterano de Fórmula 1 que retorna para salvar sua equipe de falência após 30 anos de ausência. O filme apresenta uma trama envolvente que combina a alta velocidade das pistas com uma narrativa emocionante, destacando a colaboração com pilotos reais da Fórmula 1 e a participação de Lewis Hamilton como produtor executivo. A direção de Joseph Kosinski e a produção de Jerry Bruckheimer garantem uma experiência cinematográfica imersiva, com cenas de corrida que são capturadas durante as corridas oficiais da Fórmula 1. O filme é um sucesso de bilheteira e recebe críticas positivas, destacando-se como um dos filmes de maior bilheteira de 2025.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Marcos Souza",
+                "comentario": "O filme capturou toda a emoção das corridas, mas também trouxe à tona o lado humano por trás dos pilotos. Realmente emocionante!"
+            },
+            "pessoa_2": {
+                "nome": "Ricardo Martins",
+                "comentario": "É um daqueles filmes que você se sente acelerando junto com os carros. Muito bem feito, e a participação do Lewis Hamilton fez toda a diferença."
+            },
+            "pessoa_3": {
+                "nome": "Carla Fernandes",
+                "comentario": "Incrível! As cenas de corrida são de cair o queixo, mas a parte humana da história também foi muito bem explorada."
+            }
+        }
+    },
+    {
+        "id": 4,
+        "nome": "Avatar",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 2009,
+        "genero": "Ficção-científica",
+        "duracao": "2h42min",
+        "descrição": "Avatar é um filme épico de ficção científica que se passa no ano de 2154, em um mundo habitado por uma raça indígena chamada Na'vi. O filme segue a história de Jake Sully, um ex-fuzileiro naval paraplégico que é selecionado para participar do programa Avatar, permitindo que ele controle corpos geneticamente modificados dos Na'vi para interagir com a natureza do planeta. Ao longo do filme, Jake se infiltra na tribo dos Na'vi e se apaixona por Neytiri, uma guerreira da tribo, interpretada por Zoe Saldana. O conflito central do filme é a luta entre os humanos, que desejam explorar Pandora em busca de recursos, e os Na'vi, que buscam proteger sua terra e cultura.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Eduardo Gomes",
+                "comentario": "A experiência visual desse filme é única. Pandora é um lugar que parece tão real, e a história sobre a luta pela natureza é muito importante."
+            },
+            "pessoa_2": {
+                "nome": "Tânia Lima",
+                "comentario": "Mesmo sendo lançado há anos, Avatar ainda é um dos filmes mais impressionantes visualmente. A história também é muito tocante."
+            },
+            "pessoa_3": {
+                "nome": "Gustavo Mendes",
+                "comentario": "A história de Jake e Neytiri é linda e a forma como o filme fala sobre o impacto humano no meio ambiente é tão relevante."
+            }
+        }
+    },
+    {
+        "id": 5,
+        "nome": "Jurassic Park",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 1993,
+        "genero": "Ficção-científica",
+        "duracao": "2h07min",
+        "descrição": "Jurassic Park é um filme de aventura e ficção científica que se tornou um marco na indústria de efeitos especiais. O filme, dirigido por Steven Spielberg e baseado no livro de Michael Crichton, explora a criação de dinossauros clonados a partir de DNA pré-histórico. A trama se desenrola na ilha fictícia de Isla Nublar, onde o bilionário John Hammond, fundador da InGen, busca criar um parque temático inovador. O filme é estrelado por Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Ariana Richards, Joseph Mazzello, Samuel L. Jackson e Bob Peck. As filmagens ocorreram na Califórnia e no Havaí. Jurassic Park foi aclamado por seu sucesso de bilheteira e por estabelecer um novo padrão em efeitos especiais, com produção de efeitos criados através de computação gráfica pela Industrial Light & Magic e animatrônica pela Stan Winston Studios.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Daniel Pires",
+                "comentario": "Jurassic Park é um clássico! Efeitos especiais que ainda impressionam até hoje. A história é cheia de tensão e emoção."
+            },
+            "pessoa_2": {
+                "nome": "Cláudia Rocha",
+                "comentario": "Um filme inovador para sua época. A ideia de reviver os dinossauros é fascinante, e o suspense é de tirar o fôlego!"
+            },
+            "pessoa_3": {
+                "nome": "Vitor Lima",
+                "comentario": "Acho que é impossível não se maravilhar com os dinossauros. Jurassic Park tem um equilíbrio perfeito entre ação e mistério."
+            }
+        }
+    },
+    {
+        "id": 6,
+        "nome": "Toy Story",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 1995,
+        "genero": "Animação",
+        "duracao": "1h21min",
+        "descrição": "Toy Story é um filme de animação que narra a história de um grupo de brinquedos que ganham vida quando os humanos não estão por perto. A trama se concentra na dinâmica entre Woody, um cowboy de pano à moda antiga, e Buzz Lightyear, um brinquedo de patrulheiro espacial ultramoderno que acredita ser real. A rivalidade entre eles é intensa, mas a amizade se desenvolve ao longo da história. O filme explora temas universais como amizade, superação do ciúme e a importância do trabalho em equipe e da aceitação das diferenças.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Rafael Torres",
+                "comentario": "Toy Story é uma das melhores animações já feitas. A amizade entre Woody e Buzz é inesquecível e tem uma mensagem linda sobre aceitação."
+            },
+            "pessoa_2": {
+                "nome": "Beatriz Mello",
+                "comentario": "Esse filme é um marco na história das animações. A forma como ele toca no tema da amizade e identidade é de uma sensibilidade incrível."
+            },
+            "pessoa_3": {
+                "nome": "Samuel Freitas",
+                "comentario": "É impossível não amar Toy Story. A relação entre os brinquedos é divertida e emocional ao mesmo tempo."
+            }
+        }
+    },
+    {
+        "id": 7,
+        "nome": "Carros",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 2014,
+        "genero": "Animação",
+        "duracao": "1h56min",
+        "descrição": "Carros é um filme de animação da Pixar sobre Relâmpago McQueen, um carro de corrida ambicioso que, após se desviar de uma corrida importante, acaba preso na cidade esquecida de Radiator Springs. Lá, ele aprende lições sobre amizade, humildade e a importância da vida fora das pistas com os habitantes locais, como o guincho Mate, a Sally e o Doc Hudson.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Patrícia Duarte",
+                "comentario": "Relâmpago McQueen tem um grande arco de crescimento. É um filme de animação com lições reais sobre humildade e amizade."
+            },
+            "pessoa_2": {
+                "nome": "André Nascimento",
+                "comentario": "É um filme simples, mas com uma mensagem poderosa. A amizade e a importância de se desacelerar são temas que todos podem aprender."
+            },
+            "pessoa_3": {
+                "nome": "Larissa Teixeira",
+                "comentario": "Adoro o humor e as lições de vida que Carros traz. É divertido e muito mais profundo do que parece à primeira vista."
+            }
+        }
+    },
+    {
+        "id": 8,
+        "nome": "Top Gun: Maverick",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 2022,
+        "genero": "Ação",
+        "duracao": "2h10min",
+        "descrição": "Top Gun: Maverick é um filme de ação sobre Pete Maverick Mitchell (Tom Cruise), que após mais de 30 anos como piloto, retorna à escola de formação de elite Top Gun para treinar uma nova geração de pilotos para uma missão perigosa, que exige o sacrifício final. O filme aborda temas como a substituição do fator humano pela tecnologia e a superação de traumas.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Rodrigo Bastos",
+                "comentario": "Um filme de ação de tirar o fôlego! A química entre Tom Cruise e os novos pilotos é ótima, e as cenas de voo são espetaculares."
+            },
+            "pessoa_2": {
+                "nome": "Natália Carvalho",
+                "comentario": "Top Gun: Maverick fez justiça ao legado do original. Emocionante e com cenas de ação de deixar qualquer um na ponta da cadeira."
+            },
+            "pessoa_3": {
+                "nome": "Renato Meireles",
+                "comentario": "Adorei como o filme trouxe à tona os temas de superação e legado, e as cenas aéreas são de outro nível."
+            }
+        }
+    },
+    {
+        "id": 9,
+        "nome": "Oppenheimer",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 2023,
+        "genero": "Suspense biográfico",
+        "duracao": "3h00min",
+        "descrição": "Oppenheimer é um filme de suspense biográfico de 2023, dirigido por Christopher Nolan, que narra a história do físico teórico J. Robert Oppenheimer, líder do Projeto Manhattan, e seu papel no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial. O longa aborda seus conflitos internos, dilemas éticos e o legado de suas criações, misturando a narrativa da sua ascensão como cientista com a audiência de segurança de 1954 e as consequências de suas decisões.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Vinícius Antunes",
+                "comentario": "Christopher Nolan mais uma vez nos leva a um filme com muita complexidade. A história de Oppenheimer é fascinante e perturbadora."
+            },
+            "pessoa_2": {
+                "nome": "Débora Santana",
+                "comentario": "O filme mergulha fundo nos dilemas éticos de Oppenheimer. É uma obra cinematográfica pesada, mas muito importante."
+            },
+            "pessoa_3": {
+                "nome": "Tiago Correia",
+                "comentario": "Incrível como Nolan conseguiu construir uma narrativa intensa e reflexiva sobre o impacto da ciência na história. Oppenheimer é um filme que fica com você."
+            }
+        }
+    },
+    {
+        "id": 10,
+        "nome": "A Era do Gelo",
+        "imagem": "../assets/images/nome_da_imagem.png",
+        "ano": 2002,
+        "genero": "Animação",
+        "duracao": "1h21min",
+        "descrição": "A Era do Gelo de 2002 é um filme de animação sobre um mamute chamado Manny, uma preguiça chamada Sid e um tigre dente-de-sabre chamado Diego que se unem para devolver um bebê humano à sua tribo durante a Era do Gelo. A jornada improvável forma um laço entre os personagens enquanto eles enfrentam perigos e desafios. Paralelamente, o esquilo pré-histórico Scrat vive sua própria busca por uma noz.",
+        "nota": "10/10",
+        "avaliacoes": {
+            "pessoa_1": {
+                "nome": "Tatiane Barros",
+                "comentario": "Esse filme é uma diversão para todas as idades. Manny, Sid e Diego são uma combinação de personagens hilária e a história tem muitas mensagens sobre amizade."
+            },
+            "pessoa_2": {
+                "nome": "Fernando Queiroz",
+                "comentario": "A Era do Gelo é uma animação fantástica, cheia de humor e com personagens carismáticos. Sempre que assisto, me divirto muito!"
+            },
+            "pessoa_3": {
+                "nome": "Elaine Castro",
+                "comentario": "É um filme animado com muito coração. As situações engraçadas e os laços entre os personagens são o que fazem esse filme tão especial."
+            }
+        }
+    }
+]
