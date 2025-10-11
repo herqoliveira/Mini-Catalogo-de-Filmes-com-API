@@ -1,34 +1,49 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState, useEffect } from 'react';
+import { HashRouter as Router, Routes, Route} from 'react-router-dom';
+import Home from './pages/Home';
+import Lancamentos from './pages/Lancamentos';
+import Lista from './pages/Lista';
+import Pesquisar from './pages/Pesquisar';
+import Contato from './pages/Contato';
+import MenuWeb from './components/MenuWeb';
+import MenuMobile from './components/MenuMobile';
+import Footer from './components/Footer'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const checkMobile = () => {
+      setIsMobile(window.innerWidth < 768);
+    };
+
+    checkMobile();
+    window.addEventListener('resize', checkMobile);
+
+    return () => window.removeEventListener('resize', checkMobile);
+  }, []);
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    <Router>
+      <header className="fixed top-0 w-full z-50 bg-gradient-to-b from-[#030D18]/90 to-[#030D18]/5 text-[#B01212] h-20 px-15 flex justify-between items-center">
+        <h1 style={{ fontFamily: '"Irish Grover", cursive' }} className="text-2xl font-bold"><span className='text-[#4A4DFF]'>Cine</span>Box</h1>
+        {isMobile ? <MenuMobile /> : <MenuWeb />}
+      </header>
+
+      <main className='mt-100'>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/Lancamentos" element={<Lancamentos />} />
+          <Route path="/Lista" element={<Lista />} />
+          <Route path="/Pesquisar" element={<Pesquisar />} />
+          <Route path="/Contato" element={<Contato />} />
+        </Routes>
+      </main>
+      
+      <footer>
+        <Footer />
+      </footer>
+    </Router>
   )
 }
 

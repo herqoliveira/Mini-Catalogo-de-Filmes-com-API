@@ -3,10 +3,11 @@
         "id": 0,
         "nome": "Interestelar",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 2014,
         "genero": "Ficção-científica",
         "duracao": "2h49min",
-        "descrição": "Interestelar é um filme de ficção científica dirigido por Christopher Nolan, lançado em 2014. A história segue Joseph Cooper, um ex-piloto da NASA, que é recrutado para uma missão espacial em busca de um novo lar para a humanidade após a degradação do planeta Terra. A equipe, composta por Cooper, sua esposa Murph, interpretada por Jessica Chastain, e outros cientistas, viaja através de um buraco de minhoca em busca de planetas habitáveis. O filme explora temas profundos como amor, sacrifício e a sobrevivência da humanidade, apresentando uma narrativa envolvente e cheia de efeitos especiais.",
+        "descricao": "Interestelar é um filme de ficção científica dirigido por Christopher Nolan, lançado em 2014. A história segue Joseph Cooper, um ex-piloto da NASA, que é recrutado para uma missão espacial em busca de um novo lar para a humanidade após a degradação do planeta Terra. A equipe, composta por Cooper, sua esposa Murph, interpretada por Jessica Chastain, e outros cientistas, viaja através de um buraco de minhoca em busca de planetas habitáveis. O filme explora temas profundos como amor, sacrifício e a sobrevivência da humanidade, apresentando uma narrativa envolvente e cheia de efeitos especiais.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -27,10 +28,11 @@
         "id": 2,
         "nome": "Wall-e",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 2005,
         "genero": "Animação",
         "duracao": "1h38min",
-        "descrição": "Wall-e é um filme de animação de 2008, produzido pela Pixar Animation Studios, dirigido por Andrew Stanton. A história se passa no futuro, onde a Terra está coberta de lixo e a humanidade vive em uma nave chamada Axiom. O protagonista, WALL-E, um robô projetado para limpar a sujeira, se apaixona por um robô chamado EVA, que tem a missão de encontrar vida na Terra. Através de sua jornada, WALL-E descobre a beleza e a fragilidade da vida, enquanto a humanidade se atrasa em buscar um novo lar no espaço. O filme é conhecido por sua mensagem ambiental poderosa e por apresentar uma narrativa que combina amor e solidariedade.",
+        "descricao": "Wall-e é um filme de animação de 2008, produzido pela Pixar Animation Studios, dirigido por Andrew Stanton. A história se passa no futuro, onde a Terra está coberta de lixo e a humanidade vive em uma nave chamada Axiom. O protagonista, WALL-E, um robô projetado para limpar a sujeira, se apaixona por um robô chamado EVA, que tem a missão de encontrar vida na Terra. Através de sua jornada, WALL-E descobre a beleza e a fragilidade da vida, enquanto a humanidade se atrasa em buscar um novo lar no espaço. O filme é conhecido por sua mensagem ambiental poderosa e por apresentar uma narrativa que combina amor e solidariedade.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -51,10 +53,11 @@
         "id": 3,
         "nome": "Formula 1: O Filme",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 2025,
         "genero": "Drama",
         "duracao": "2h36min",
-        "descrição": "F1: O Filme é um drama esportivo que segue a história de Sonny Hayes, um piloto veterano de Fórmula 1 que retorna para salvar sua equipe de falência após 30 anos de ausência. O filme apresenta uma trama envolvente que combina a alta velocidade das pistas com uma narrativa emocionante, destacando a colaboração com pilotos reais da Fórmula 1 e a participação de Lewis Hamilton como produtor executivo. A direção de Joseph Kosinski e a produção de Jerry Bruckheimer garantem uma experiência cinematográfica imersiva, com cenas de corrida que são capturadas durante as corridas oficiais da Fórmula 1. O filme é um sucesso de bilheteira e recebe críticas positivas, destacando-se como um dos filmes de maior bilheteira de 2025.",
+        "descricao": "F1: O Filme é um drama esportivo que segue a história de Sonny Hayes, um piloto veterano de Fórmula 1 que retorna para salvar sua equipe de falência após 30 anos de ausência. O filme apresenta uma trama envolvente que combina a alta velocidade das pistas com uma narrativa emocionante, destacando a colaboração com pilotos reais da Fórmula 1 e a participação de Lewis Hamilton como produtor executivo. A direção de Joseph Kosinski e a produção de Jerry Bruckheimer garantem uma experiência cinematográfica imersiva, com cenas de corrida que são capturadas durante as corridas oficiais da Fórmula 1. O filme é um sucesso de bilheteira e recebe críticas positivas, destacando-se como um dos filmes de maior bilheteira de 2025.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -75,10 +78,11 @@
         "id": 4,
         "nome": "Avatar",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 2009,
         "genero": "Ficção-científica",
         "duracao": "2h42min",
-        "descrição": "Avatar é um filme épico de ficção científica que se passa no ano de 2154, em um mundo habitado por uma raça indígena chamada Na'vi. O filme segue a história de Jake Sully, um ex-fuzileiro naval paraplégico que é selecionado para participar do programa Avatar, permitindo que ele controle corpos geneticamente modificados dos Na'vi para interagir com a natureza do planeta. Ao longo do filme, Jake se infiltra na tribo dos Na'vi e se apaixona por Neytiri, uma guerreira da tribo, interpretada por Zoe Saldana. O conflito central do filme é a luta entre os humanos, que desejam explorar Pandora em busca de recursos, e os Na'vi, que buscam proteger sua terra e cultura.",
+        "descricao": "Avatar é um filme épico de ficção científica que se passa no ano de 2154, em um mundo habitado por uma raça indígena chamada Na'vi. O filme segue a história de Jake Sully, um ex-fuzileiro naval paraplégico que é selecionado para participar do programa Avatar, permitindo que ele controle corpos geneticamente modificados dos Na'vi para interagir com a natureza do planeta. Ao longo do filme, Jake se infiltra na tribo dos Na'vi e se apaixona por Neytiri, uma guerreira da tribo, interpretada por Zoe Saldana. O conflito central do filme é a luta entre os humanos, que desejam explorar Pandora em busca de recursos, e os Na'vi, que buscam proteger sua terra e cultura.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -99,10 +103,11 @@
         "id": 5,
         "nome": "Jurassic Park",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 1993,
         "genero": "Ficção-científica",
         "duracao": "2h07min",
-        "descrição": "Jurassic Park é um filme de aventura e ficção científica que se tornou um marco na indústria de efeitos especiais. O filme, dirigido por Steven Spielberg e baseado no livro de Michael Crichton, explora a criação de dinossauros clonados a partir de DNA pré-histórico. A trama se desenrola na ilha fictícia de Isla Nublar, onde o bilionário John Hammond, fundador da InGen, busca criar um parque temático inovador. O filme é estrelado por Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Ariana Richards, Joseph Mazzello, Samuel L. Jackson e Bob Peck. As filmagens ocorreram na Califórnia e no Havaí. Jurassic Park foi aclamado por seu sucesso de bilheteira e por estabelecer um novo padrão em efeitos especiais, com produção de efeitos criados através de computação gráfica pela Industrial Light & Magic e animatrônica pela Stan Winston Studios.",
+        "descricao": "Jurassic Park é um filme de aventura e ficção científica que se tornou um marco na indústria de efeitos especiais. O filme, dirigido por Steven Spielberg e baseado no livro de Michael Crichton, explora a criação de dinossauros clonados a partir de DNA pré-histórico. A trama se desenrola na ilha fictícia de Isla Nublar, onde o bilionário John Hammond, fundador da InGen, busca criar um parque temático inovador. O filme é estrelado por Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough, Ariana Richards, Joseph Mazzello, Samuel L. Jackson e Bob Peck. As filmagens ocorreram na Califórnia e no Havaí. Jurassic Park foi aclamado por seu sucesso de bilheteira e por estabelecer um novo padrão em efeitos especiais, com produção de efeitos criados através de computação gráfica pela Industrial Light & Magic e animatrônica pela Stan Winston Studios.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -123,10 +128,11 @@
         "id": 6,
         "nome": "Toy Story",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 1995,
         "genero": "Animação",
         "duracao": "1h21min",
-        "descrição": "Toy Story é um filme de animação que narra a história de um grupo de brinquedos que ganham vida quando os humanos não estão por perto. A trama se concentra na dinâmica entre Woody, um cowboy de pano à moda antiga, e Buzz Lightyear, um brinquedo de patrulheiro espacial ultramoderno que acredita ser real. A rivalidade entre eles é intensa, mas a amizade se desenvolve ao longo da história. O filme explora temas universais como amizade, superação do ciúme e a importância do trabalho em equipe e da aceitação das diferenças.",
+        "descricao": "Toy Story é um filme de animação que narra a história de um grupo de brinquedos que ganham vida quando os humanos não estão por perto. A trama se concentra na dinâmica entre Woody, um cowboy de pano à moda antiga, e Buzz Lightyear, um brinquedo de patrulheiro espacial ultramoderno que acredita ser real. A rivalidade entre eles é intensa, mas a amizade se desenvolve ao longo da história. O filme explora temas universais como amizade, superação do ciúme e a importância do trabalho em equipe e da aceitação das diferenças.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -147,10 +153,11 @@
         "id": 7,
         "nome": "Carros",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 2014,
         "genero": "Animação",
         "duracao": "1h56min",
-        "descrição": "Carros é um filme de animação da Pixar sobre Relâmpago McQueen, um carro de corrida ambicioso que, após se desviar de uma corrida importante, acaba preso na cidade esquecida de Radiator Springs. Lá, ele aprende lições sobre amizade, humildade e a importância da vida fora das pistas com os habitantes locais, como o guincho Mate, a Sally e o Doc Hudson.",
+        "descricao": "Carros é um filme de animação da Pixar sobre Relâmpago McQueen, um carro de corrida ambicioso que, após se desviar de uma corrida importante, acaba preso na cidade esquecida de Radiator Springs. Lá, ele aprende lições sobre amizade, humildade e a importância da vida fora das pistas com os habitantes locais, como o guincho Mate, a Sally e o Doc Hudson.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -171,10 +178,11 @@
         "id": 8,
         "nome": "Top Gun: Maverick",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 2022,
-        "genero": "Ação",
+        "genero": "Acao",
         "duracao": "2h10min",
-        "descrição": "Top Gun: Maverick é um filme de ação sobre Pete Maverick Mitchell (Tom Cruise), que após mais de 30 anos como piloto, retorna à escola de formação de elite Top Gun para treinar uma nova geração de pilotos para uma missão perigosa, que exige o sacrifício final. O filme aborda temas como a substituição do fator humano pela tecnologia e a superação de traumas.",
+        "descricao": "Top Gun: Maverick é um filme de ação sobre Pete Maverick Mitchell (Tom Cruise), que após mais de 30 anos como piloto, retorna à escola de formação de elite Top Gun para treinar uma nova geração de pilotos para uma missão perigosa, que exige o sacrifício final. O filme aborda temas como a substituição do fator humano pela tecnologia e a superação de traumas.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -195,10 +203,11 @@
         "id": 9,
         "nome": "Oppenheimer",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 2023,
         "genero": "Suspense biográfico",
         "duracao": "3h00min",
-        "descrição": "Oppenheimer é um filme de suspense biográfico de 2023, dirigido por Christopher Nolan, que narra a história do físico teórico J. Robert Oppenheimer, líder do Projeto Manhattan, e seu papel no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial. O longa aborda seus conflitos internos, dilemas éticos e o legado de suas criações, misturando a narrativa da sua ascensão como cientista com a audiência de segurança de 1954 e as consequências de suas decisões.",
+        "descricao": "Oppenheimer é um filme de suspense biográfico de 2023, dirigido por Christopher Nolan, que narra a história do físico teórico J. Robert Oppenheimer, líder do Projeto Manhattan, e seu papel no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial. O longa aborda seus conflitos internos, dilemas éticos e o legado de suas criações, misturando a narrativa da sua ascensão como cientista com a audiência de segurança de 1954 e as consequências de suas decisões.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
@@ -219,10 +228,11 @@
         "id": 10,
         "nome": "A Era do Gelo",
         "imagem": "../assets/images/nome_da_imagem.png",
+        "indicacao": 0,
         "ano": 2002,
         "genero": "Animação",
         "duracao": "1h21min",
-        "descrição": "A Era do Gelo de 2002 é um filme de animação sobre um mamute chamado Manny, uma preguiça chamada Sid e um tigre dente-de-sabre chamado Diego que se unem para devolver um bebê humano à sua tribo durante a Era do Gelo. A jornada improvável forma um laço entre os personagens enquanto eles enfrentam perigos e desafios. Paralelamente, o esquilo pré-histórico Scrat vive sua própria busca por uma noz.",
+        "descricao": "A Era do Gelo de 2002 é um filme de animação sobre um mamute chamado Manny, uma preguiça chamada Sid e um tigre dente-de-sabre chamado Diego que se unem para devolver um bebê humano à sua tribo durante a Era do Gelo. A jornada improvável forma um laço entre os personagens enquanto eles enfrentam perigos e desafios. Paralelamente, o esquilo pré-histórico Scrat vive sua própria busca por uma noz.",
         "nota": "10/10",
         "avaliacoes": {
             "pessoa_1": {
