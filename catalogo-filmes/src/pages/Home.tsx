@@ -41,7 +41,7 @@ function Home() {
         <>
             <div className='bg-[url(../../public/images/interestelar_carrossel.jpg)] bg-cover h-[100vh] flex flex-col justify-center items-center'>
                 <h1 className="font-bold lg:text-7xl md:text-5xl text-4xl mt-25 mb-10">INTERESTELAR</h1>
-                <button className="bg-[#4A4DFF] text-[#FFF] lg:text-3xl md:text-2xl font-bold lg:px-12 lg:py-5 md:px-10 md:py-4 px-8 py-3 rounded-2xl cursor-pointer transition-all ease-linear duration-300 hover:scale-125 hover:bg-[#0f13fc]">Confira!</button>
+                <button className="bg-[#4A4DFF] text-[#FFF] lg:text-3xl md:text-2xl font-bold lg:px-12 lg:py-5 md:px-10 md:py-4 px-8 py-3 rounded-2xl cursor-pointer transition-all ease-linear duration-300 hover:scale-100 hover:bg-[#0f13fc]">Confira!</button>
             </div>
             <div className='bg-[#525252] px-15 py-10 text-white'>
                 <h1 className="font-bold lg:text-7xl md:text-5xl text-4xl mb-10">Filmes</h1>
