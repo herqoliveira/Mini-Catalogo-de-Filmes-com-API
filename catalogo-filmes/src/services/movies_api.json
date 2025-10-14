@@ -2,7 +2,7 @@
     {
         "id": 0,
         "nome": "Interestelar",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/interestelar.jpg",
         "indicacao": 0,
         "ano": 2014,
         "genero": "Ficção-científica",
@@ -27,7 +27,7 @@
     {
         "id": 2,
         "nome": "Wall-e",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/walle.jpg",
         "indicacao": 0,
         "ano": 2005,
         "genero": "Animação",
@@ -52,7 +52,7 @@
     {
         "id": 3,
         "nome": "Formula 1: O Filme",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/f1.png",
         "indicacao": 0,
         "ano": 2025,
         "genero": "Drama",
@@ -77,7 +77,7 @@
     {
         "id": 4,
         "nome": "Avatar",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/avatar.jpg",
         "indicacao": 0,
         "ano": 2009,
         "genero": "Ficção-científica",
@@ -102,7 +102,7 @@
     {
         "id": 5,
         "nome": "Jurassic Park",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/jurassicpark.png",
         "indicacao": 0,
         "ano": 1993,
         "genero": "Ficção-científica",
@@ -127,7 +127,7 @@
     {
         "id": 6,
         "nome": "Toy Story",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/toystory.jpg",
         "indicacao": 0,
         "ano": 1995,
         "genero": "Animação",
@@ -152,7 +152,7 @@
     {
         "id": 7,
         "nome": "Carros",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/carros.png",
         "indicacao": 0,
         "ano": 2014,
         "genero": "Animação",
@@ -177,10 +177,10 @@
     {
         "id": 8,
         "nome": "Top Gun: Maverick",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/topgun.png",
         "indicacao": 0,
         "ano": 2022,
-        "genero": "Acao",
+        "genero": "Ação",
         "duracao": "2h10min",
         "descricao": "Top Gun: Maverick é um filme de ação sobre Pete Maverick Mitchell (Tom Cruise), que após mais de 30 anos como piloto, retorna à escola de formação de elite Top Gun para treinar uma nova geração de pilotos para uma missão perigosa, que exige o sacrifício final. O filme aborda temas como a substituição do fator humano pela tecnologia e a superação de traumas.",
         "nota": "10/10",
@@ -202,7 +202,7 @@
     {
         "id": 9,
         "nome": "Oppenheimer",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/oppenheimer.png",
         "indicacao": 0,
         "ano": 2023,
         "genero": "Suspense biográfico",
@@ -227,7 +227,7 @@
     {
         "id": 10,
         "nome": "A Era do Gelo",
-        "imagem": "../assets/images/nome_da_imagem.png",
+        "imagem": "/images/aeradogelo.png",
         "indicacao": 0,
         "ano": 2002,
         "genero": "Animação",

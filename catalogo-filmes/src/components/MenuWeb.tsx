@@ -11,7 +11,7 @@ const MenuWeb = () => {
                     className={({ isActive }) =>
                     isActive
                         ? "cursor-pointer text-[#4A4DFF] border-b-2"
-                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2"
+                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2 transition duration-200 ease-in-out"
                     }
                 >
                     Home
@@ -23,7 +23,7 @@ const MenuWeb = () => {
                     className={({ isActive }) =>
                     isActive
                         ? "cursor-pointer text-[#4A4DFF] border-b-2"
-                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2"
+                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2 transition duration-200 ease-in-out"
                     }
                 >
                     Lançamentos
@@ -35,7 +35,7 @@ const MenuWeb = () => {
                     className={({ isActive }) =>
                     isActive
                         ? "cursor-pointer text-[#4A4DFF] border-b-2"
-                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2"
+                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2 transition duration-200 ease-in-out"
                     }
                 >
                     Minha Lista
@@ -50,7 +50,7 @@ const MenuWeb = () => {
                     className={({ isActive }) =>
                     isActive
                         ? "cursor-pointer text-[#4A4DFF] border-b-2"
-                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2"
+                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2 transition duration-200 ease-in-out"
                     }
                 >
                     <a className="h-8 w-8 bg-[#030D18] rounded-full flex justify-center items-center"><i className="fas fa-search"></i></a>
@@ -62,7 +62,7 @@ const MenuWeb = () => {
                     className={({ isActive }) =>
                     isActive
                         ? "cursor-pointer text-[#4A4DFF] border-b-2"
-                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2"
+                        : "cursor-pointer hover:text-[#4A4DFF] hover:border-b-2 transition duration-200 ease-in-out"
                     }
                 >
                     <a className="h-8 w-8 bg-[#030D18] rounded-full flex justify-center items-center"><i className="fas fa-user"></i></a>

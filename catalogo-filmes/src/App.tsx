@@ -25,12 +25,12 @@ function App() {
 
   return (
     <Router>
-      <header className="fixed top-0 w-full z-50 bg-gradient-to-b from-[#030D18]/90 to-[#030D18]/5 text-[#B01212] h-20 px-15 flex justify-between items-center">
+      <header className="fixed top-0 w-full z-50 bg-gradient-to-b from-[#030D18]/100 to-[#030D18]/0 text-[#B01212] h-20 px-15 flex justify-between items-center"> {/*bg-gradient-to-b from-[#030D18]/100 to-[#030D18]/0*/}
         <h1 style={{ fontFamily: '"Irish Grover", cursive' }} className="text-2xl font-bold"><span className='text-[#4A4DFF]'>Cine</span>Box</h1>
         {isMobile ? <MenuMobile /> : <MenuWeb />}
       </header>
 
-      <main className='mt-100'>
+      <main>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Lancamentos" element={<Lancamentos />} />
