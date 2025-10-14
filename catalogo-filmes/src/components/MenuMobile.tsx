@@ -32,7 +32,7 @@ const MenuMobile = () => {
             </div>
 
             <ul className="flex flex-col gap-6 text-[#B01212]">
-              <li>
+              <li className='font-bold'>
                 <NavLink to="/" onClick={toggleMenu} className={({ isActive }) =>
                   isActive
                     ? "cursor-pointer text-[#4A4DFF] border-b-2"
@@ -41,7 +41,7 @@ const MenuMobile = () => {
                   Home
                 </NavLink>
               </li>
-              <li>
+              <li className='font-bold'>
                 <NavLink to="/artistas" onClick={toggleMenu} className={({ isActive }) =>
                   isActive
                     ? "cursor-pointer text-[#4A4DFF] border-b-2"
@@ -50,7 +50,7 @@ const MenuMobile = () => {
                   Lançamentos
                 </NavLink>
               </li>
-              <li>
+              <li className='font-bold'>
                 <NavLink to="/musicas" onClick={toggleMenu} className={({ isActive }) =>
                   isActive
                     ? "cursor-pointer text-[#4A4DFF] border-b-2"
@@ -60,7 +60,7 @@ const MenuMobile = () => {
                 </NavLink>
               </li>
               <ul className='flex gap-5'>
-                    <li>
+                    <li className='font-bold'>
                         <NavLink to="/playlists" onClick={toggleMenu} className={({ isActive }) =>
                         isActive
                             ? "cursor-pointer text-[#4A4DFF] border-b-2"
@@ -69,7 +69,7 @@ const MenuMobile = () => {
                         <a className="h-8 w-8 bg-[#030D18] rounded-full flex justify-center items-center"><i className="fas fa-search"></i></a>
                         </NavLink>
                     </li>
-                    <li>
+                    <li className='font-bold'>
                         <NavLink to="/conta" onClick={toggleMenu} className={({ isActive }) =>
                         isActive
                             ? "cursor-pointer text-[#4A4DFF] border-b-2"
