@@ -5,7 +5,7 @@ const MenuWeb = () => {
     <>
         <nav>
             <ul className="flex gap-7">
-                <li>
+                <li className='font-bold'>
                 <NavLink
                     to="/"
                     className={({ isActive }) =>
@@ -17,7 +17,7 @@ const MenuWeb = () => {
                     Home
                 </NavLink>
                 </li>
-                <li>
+                <li className='font-bold'>
                 <NavLink
                     to="/Lancamentos"
                     className={({ isActive }) =>
@@ -29,7 +29,7 @@ const MenuWeb = () => {
                     Lançamentos
                 </NavLink>
                 </li>
-                <li>
+                <li className='font-bold'>
                 <NavLink
                     to="/Lista"
                     className={({ isActive }) =>
