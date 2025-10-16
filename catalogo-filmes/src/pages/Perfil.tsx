@@ -49,15 +49,15 @@ function Perfil() {
       <div className="max-w-7xl mx-auto">
         
 
-        <div className="mt-10 w-4xl mx-auto bg-white text-gray-800 rounded-2xl shadow-2xl p-8 mb-12 flex flex-col items-center">
+        <div className="mt-10 w-xl mx-auto bg-white text-gray-800 rounded-2xl shadow-2xl p-8 mb-12 flex flex-col items-center">
           <img
             src={userData.imagemPerfil}
             alt="Foto do Perfil"
 
             className="w-32 h-32 rounded-full object-cover border-4 border-[#4A4DFF] mb-4"
           />
-          <h1 className="text-4xl font-bold">{userData.nome}</h1>
-          <p className="text-gray-500 mt-1">{userData.email}</p>
+          <h1 className="text-4xl font-bold ">{userData.nome}</h1>
+          <p className="text-gray-500 mt-1 ">{userData.email}</p>
           <p className="text-gray-500 text-sm mt-2">Membro desde: {userData.membroDesde}</p>
 
           <div className="flex gap-5 mt-8">
