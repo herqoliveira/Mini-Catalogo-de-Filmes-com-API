@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { HashRouter as Router, Routes, Route} from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import Home from './pages/Home';
 import Lancamentos from './pages/Lancamentos';
 import Lista from './pages/Lista';
@@ -33,7 +33,8 @@ function App() {
 
       <main>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Navigate to="/Home" />} />
+          <Route path="/Home" element={<Home />} />
           <Route path="/Lancamentos" element={<Lancamentos />} />
           <Route path="/Lista" element={<Lista />} />
           <Route path="/Pesquisar" element={<Pesquisar />} />
