@@ -58,7 +58,7 @@ const MenuWeb = () => {
             </li>
             <li>
                 <NavLink
-                    to="/Conta"
+                    to="/Perfil"
                     className={({ isActive }) =>
                     isActive
                         ? "cursor-pointer text-[#4A4DFF] border-b-2"

@@ -8,6 +8,7 @@ import Contato from './pages/Contato';
 import MenuWeb from './components/MenuWeb';
 import MenuMobile from './components/MenuMobile';
 import Footer from './components/Footer'
+import Perfil from './pages/Perfil';
 
 function App() {
   const [isMobile, setIsMobile] = useState(false);
@@ -36,7 +37,9 @@ function App() {
           <Route path="/Lancamentos" element={<Lancamentos />} />
           <Route path="/Lista" element={<Lista />} />
           <Route path="/Pesquisar" element={<Pesquisar />} />
+          <Route path="/Perfil" element={<Perfil />} />
           <Route path="/Contato" element={<Contato />} />
+
         </Routes>
       </main>
       
